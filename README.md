@@ -26,3 +26,6 @@ Jupyter Notebook
 
 What You Will Learn
 You will practice making real decisions about messy data, not just running .dropna() and moving on. You will also get comfortable reading a dataset before transforming it, which is a habit that matters a lot in real projects.
+
+https://roadmap.sh/projects/cleaning-netflix-dataset
+
